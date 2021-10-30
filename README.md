@@ -6,7 +6,7 @@ Sometimes you just want to throw together something quickly that requires the po
 
 WHAT ARE THE FILES IN THIS PROJECT:
 
-boot.py -- makes it possible for python to release the file system when the Circuit Playground Switch so that pgm.txt can be updated (based on a switch setting)
+boot.py -- makes it possible for python to release the file system when the Circuit Playground Switch is slid to the right and the reset button is briefly pressed so that pgm.txt can be updated
 
 pgm.txt -- default program loaded when the Circuit Playground Express is powered up or reset
 
